@@ -9,7 +9,7 @@ This dashboard helps monitor and analyze the sales performance of a company. It 
 
 ## Tools Used
 - Power BI
-- Excel
+- SQL Server
 - DAX (for custom calculations)
 - Power Query (for data transformation)
 
