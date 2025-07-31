@@ -41,10 +41,10 @@ sales-performance-dashboard/
 .png)
 
 ## About Me
-
 **Anurag** – Aspiring Data Analyst  
-📧 anurag@email.com  
+📧 anuragkdataanalyst@email.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anuragkaushik-analytics/)
+
 
 
 
